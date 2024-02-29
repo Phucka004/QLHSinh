@@ -103,6 +103,7 @@ namespace Thuchanh1_1
         {
             FHocSinh gv = new FHocSinh();
             gv.Show();
+            //ketnoicsdl;
         }*/
     }
 
